@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-2-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-3-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-14 · Meta Muse Wonder
+
+https://github.com/user-attachments/assets/eaa4b059-e0fa-4a29-89c9-7d03de76ae40
+
+**Takeaway:** Meta's Muse Wonder models pitch an agent that plans, delegates, calls tools and recovers on its own with a 1M token context at $4/$20 per million tokens, but the real test is whether it finishes a full coding workflow end to end.
 
 ### 2026-10-11 · DeepSeek
 
