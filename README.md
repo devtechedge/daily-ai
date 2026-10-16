@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-3-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-4-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-16 · OpenCode Freebies
+
+https://github.com/user-attachments/assets/14b78e2c-6efa-4c04-bc7c-3c7212ecba73
+
+**Takeaway:** OpenCode now lists DeepSeek V4.1 Flash for coding and reasoning and NVIDIA Nemotron 3.5 Super VL for text, image and video work as free endpoints, but the offers are limited time, so try them soon.
 
 ### 2026-10-14 · Meta Muse Wonder
 
