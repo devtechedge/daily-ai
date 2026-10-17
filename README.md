@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-4-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-5-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-17 · Muse Spark Open
+
+https://github.com/user-attachments/assets/5f43b0eb-8f1e-46c8-a575-dde6846597ce
+
+**Takeaway:** Meta's Muse Spark Open makes its model weights available for developers to download, customize and run themselves, with 816 billion total parameters and a 1 million token context window built for coding and multi-step agent workflows.
 
 ### 2026-10-16 · OpenCode Freebies
 
