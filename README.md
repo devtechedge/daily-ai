@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-7-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-8-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-21 · Inception Mercury 3
+
+https://github.com/user-attachments/assets/420f2941-f15d-45ce-bf83-309a21bc333f
+
+**Takeaway:** Inception Labs' Mercury 3 diffusion model runs at over 1,000 tokens per second, 4 to 8 times faster than GPT-6 Luna and Haiku 5.5 while beating them on several benchmarks, with a 1M token context, API access via Inception, Baseten and OpenRouter, launch pricing of $0.10/$0.35 per million input/output tokens, and 100M free tokens for new users.
 
 ### 2026-10-21 · OpenCode Go
 
