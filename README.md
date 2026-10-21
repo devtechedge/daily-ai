@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-6-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-7-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-21 · OpenCode Go
+
+https://github.com/user-attachments/assets/d7c6d57b-2bcb-4e59-8e40-8b907c9f26f3
+
+**Takeaway:** OpenCode Go bundles Grok 4.7, GPT 6 Luna, Claude Haiku 5.5, Gemini 4 Argon, DeepSeek V4.1 Flash, GLM 5.3, Kimi K3 and Qwen 3.8 Max into one $10 a month plan, usable inside OpenCode or your own agent harness, with credit top-ups.
 
 ### 2026-10-17 · DeepSeek V4.1 Flash
 
