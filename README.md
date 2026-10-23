@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-8-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-9-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-23 · Security patch week: PHP, Node.js, GitLab, LiteLLM
+
+https://github.com/user-attachments/assets/28badf9b-c12b-481d-a0f1-92eb7aa5fe31
+
+**Takeaway:** PHP flaws allow code execution (AWS saw exploit attempts before disclosure), Node.js patched serious issues, a critical GitLab bug was reportedly exploited to read server files, and a poisoned LiteLLM release planted credential-stealing malware in Python startup files, so patch, check versions, rebuild suspect systems and rotate exposed secrets now.
 
 ### 2026-10-21 · Inception Mercury 3
 
