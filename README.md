@@ -2,7 +2,7 @@
 
 Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI drops, one clear takeaway each.
 
-[![Videos](https://img.shields.io/badge/videos-9-0866FF?style=for-the-badge)](#video-log)
+[![Videos](https://img.shields.io/badge/videos-10-0866FF?style=for-the-badge)](#video-log)
 [![Cadence](https://img.shields.io/badge/new_drop-daily-3ECF6E?style=for-the-badge)](#how-it-works)
 [![Topics](https://img.shields.io/badge/topics-LLMs_·_agents_·_tools-111111?style=for-the-badge)](#video-log)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -10,6 +10,12 @@ Short 60 to 90 second videos by Dev on AI tools, LLMs, coding agents and new AI 
 ## Video log
 
 Newest first.
+
+### 2026-10-23 · MiniMax M3.1 Flash
+
+https://github.com/user-attachments/assets/b3bd930b-a68d-44ee-8838-7bf9e6ef89a1
+
+**Takeaway:** MiniMax M3.1 Flash joins OpenCode's free lineup with a 1M token context, output above 200 tokens per second, 73.7% on DeepSWE and 82.2% on CyberGym, and agent task costs 70% lower than the previous generation, so it is worth trying on real software fixes.
 
 ### 2026-10-23 · Security patch week: PHP, Node.js, GitLab, LiteLLM
 
